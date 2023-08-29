@@ -2,4 +2,4 @@
 
 Simple Maven Project
 <br
-testing
+testing example
